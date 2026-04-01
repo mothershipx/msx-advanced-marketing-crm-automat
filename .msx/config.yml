@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: Advanced Marketing & CRM Automation for SMBs/Agencies
+slug: advanced-marketing-crm-automat
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: advanced-marketing-crm-automat.msx.dev

@@ -1,0 +1,50 @@
+{
+  "id": "52ec89ed-769a-4f2a-a070-997ce73ac28b",
+  "name": "Advanced Marketing & CRM Automation for SMBs/Agencies",
+  "slug": "advanced-marketing-crm-automat",
+  "category": "saas",
+  "score": 90,
+  "description": "Small to medium businesses and marketing agencies need sophisticated yet easy-to-manage marketing automation, CRM customization, and accurate lead-to-revenue tracking. Current solutions often lack specific features like client approval workflows or deep integration for niche markets.",
+  "pain_points": [
+    "Difficulty managing complex marketing automation for SMBs",
+    "Lack of accurate lead-to-revenue tracking from diverse channels",
+    "Absence of integrated client content approval workflows",
+    "Limited CRM customization and niche-specific integrations"
+  ],
+  "market_size": "$7.5B",
+  "tech_stack": [
+    "Large Language Models (e.g., GPT-4/Gemini Pro)",
+    "Graph Neural Networks (GNNs) for attribution",
+    "Reinforcement Learning (RL) for campaign optimization",
+    "Real-time data streaming (Apache Kafka/Flink)",
+    "Distributed Ledger Technology (DLT) for content approval audit trails"
+  ],
+  "revenue_model": "Subscription SaaS",
+  "sources": [
+    {
+      "icon": "📱",
+      "value": "874",
+      "change": 90,
+      "metric": "Views",
+      "source": "tiktok"
+    },
+    {
+      "icon": "📈",
+      "value": "96/100",
+      "change": 54,
+      "metric": "Search Interest",
+      "source": "google_trends"
+    },
+    {
+      "icon": "💬",
+      "value": "4+",
+      "change": 48,
+      "metric": "Mentions",
+      "source": "reddit"
+    }
+  ],
+  "preview_url": "https://mothershipx.github.io/msx-advanced-marketing-crm-automat/",
+  "repo_url": "https://github.com/mothershipx/msx-advanced-marketing-crm-automat",
+  "created_at": "2026-04-01T07:18:10.459Z",
+  "pipeline_version": "1.0.0"
+}
